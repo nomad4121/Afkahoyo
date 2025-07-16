@@ -1,0 +1,13 @@
+- type: lesson
+  name: Food
+  words:
+    - english: Water
+      somali: Biyo
+    - english: Bread
+      somali: Rooti
+    - english: Rice
+      somali: Bariis
+    - english: Meat
+      somali: Hilib
+    - english: Milk
+      somali: Caano

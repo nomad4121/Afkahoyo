@@ -1,0 +1,15 @@
+- type: lesson
+  name: Greetings
+  words:
+    - english: Hello
+      somali: Iska warran
+    - english: Goodbye
+      somali: Nabad gelyo
+    - english: Thank you
+      somali: Mahadsanid
+    - english: Please
+      somali: Fadlan
+    - english: Yes
+      somali: Haa
+    - english: No
+      somali: Maya
