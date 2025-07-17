@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
+  output: 'standalone', // This is important for dynamic Next.js hosting
 };
 
-export default nextConfig;
+module.exports = nextConfig;
