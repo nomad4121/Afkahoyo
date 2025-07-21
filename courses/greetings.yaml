@@ -1,0 +1,32 @@
+Skill:
+  Id: greetings
+  Name: Greetings
+  Lessons:
+    - Lesson:
+        Name: Hello and Welcome
+        NewWords:
+          - Hello: "Iska warran"
+          - Welcome: "Ku soo dhawoow"
+          - Goodbye: "Nabad gelyo"
+          - Thank you: "Mahadsanid"
+          - Yes: "Haa"
+          - No: "Maya"
+        Phrases:
+          - Phrase:
+              Somali: "Iska warran"
+              English: "Hello"
+          - Phrase:
+              Somali: "Ku soo dhawoow"
+              English: "Welcome"
+          - Phrase:
+              Somali: "Nabad gelyo"
+              English: "Goodbye"
+          - Phrase:
+              Somali: "Mahadsanid"
+              English: "Thank you"
+          - Phrase:
+              Somali: "Haa"
+              English: "Yes"
+          - Phrase:
+              Somali: "Maya"
+              English: "No"
