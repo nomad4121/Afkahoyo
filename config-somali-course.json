@@ -1,0 +1,12 @@
+
+{
+  "courses": [
+    {
+      "id": "somali",
+      "from_language": "en",
+      "learning_language": "so",
+      "course_dir": "courses",
+      "modules": ["basics", "greetings"]
+    }
+  ]
+}
