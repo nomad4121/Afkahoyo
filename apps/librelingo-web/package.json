@@ -31,5 +31,3 @@
     "node": "22.x"
   }
 }
-
-Update: set Node engine to 22.x (Vercel compatibility)
