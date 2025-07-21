@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: librelingo-web
+    env: node
+    branch: main
+    rootDir: apps/librelingo-web
+    buildCommand: npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
