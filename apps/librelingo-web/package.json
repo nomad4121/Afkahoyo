@@ -28,6 +28,8 @@
     "typescript": "^5"
   },
   "engines": {
-    "node": "18.x"
+    "node": "22.x"
   }
 }
+
+Update: set Node engine to 22.x (Vercel compatibility)
